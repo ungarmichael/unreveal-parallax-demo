@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
     "paths": {
-      "@frame-parallax/*": ["./*"]
-    }
-  }
+      "@unreveal-parallax-demo/*": ["./*"]
+    },
+	"checkJs": true,
+	"jsx": "react-jsx"
+  },
+  
 }
